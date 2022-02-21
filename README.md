@@ -13,4 +13,4 @@ Fique à vontade para entrar em contato comigo:
 - [Instagram](https://www.instagram.com/alexandrebekor/)
 - [Twitter](https://twitter.com/alexandrebekor)
 
-**Fique à vontade para dar uma olhada em alguns dos meus projetos logo abaixo!** 
+**Dê uma olhada em alguns dos meus projetos logo abaixo!** :arrow_down:
