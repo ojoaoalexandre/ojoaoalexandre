@@ -7,4 +7,10 @@ Sou **desenvolvedor full-stack** apaixonado pelo impacto positivo da programaç�
 - 👩‍🏫 Mentorando e sendo mentorado
 - 💬 Expandindo o network e construindo grandes amizades no caminho
 
+### Canais
+Fique à vontade para entrar em contato comigo:
+- [LinkedIn](https://www.linkedin.com/in/joaovitoralexandre/)
+- [Instagram](https://www.instagram.com/alexandrebekor/)
+- [Twitter](https://twitter.com/alexandrebekor)
+
 **Fique à vontade para dar uma olhada em alguns dos meus projetos logo abaixo!** 
