@@ -1,5 +1,5 @@
 ## Olá, eu sou Alexandre 👋
-Sou um **desenvolvedor full-stack** apaixonado pelo impacto positivo da programação na sociedade e nos negócios!
+Sou **desenvolvedor full-stack** apaixonado pelo impacto positivo da programação nos negócios e na sociedade!
 
 ### Atualmente estou
 - 🌱 Aprendendo Typescript, Next.js, Nest.js e outras tecnologias full-stack
