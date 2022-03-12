@@ -36,7 +36,7 @@ Algumas das linguagens e ferramentas que tenho mais utilizado para o desenvolvim
 - 👩‍🏫 Mentorando e sendo mentorado
 - 🤓 Expandindo o network e construindo grandes amizades no caminho
 
-## 💬 Social
+## 💬 Fale comigo
 Fique à vontade para entrar em contato comigo pelos outros canais de comunição:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alexandrebekor)
