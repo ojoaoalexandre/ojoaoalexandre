@@ -13,13 +13,15 @@ Algumas das linguagens e ferramentas que tenho mais utilizado para o desenvolvim
 ![Gatsby JS](https://img.shields.io/badge/-Gatsby%20JS-663399?logo=gatsby&logoColor=FFF&style=flat-square)
 ![Next JS](https://img.shields.io/badge/-Next%20JS-000000?logo=next.js&logoColor=FFF&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=FFF&style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=FFF&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=FFF&style=flat-square)
 
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=FFF&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=FFF&style=flat-square)
 
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=FFF&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=FFF&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFF&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=FFF&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=FFF&style=flat-square)
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=FFF&style=flat-square)
