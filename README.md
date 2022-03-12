@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Alexandre
 Sou **desenvolvedor full-stack**, imerso na criação de soluções em software desde 2017 e apaixonado pelo impacto positivo da programação nos negócios, e na sociedade!
 
-Algumas das linguagens e ferramentas que tenho mais utilizado para o desenvolvimento de projetos são:
+Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de projetos são:
 
 ![HTML 5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=FFF&style=flat-square)
 ![CSS 3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=FFF&style=flat-square)
