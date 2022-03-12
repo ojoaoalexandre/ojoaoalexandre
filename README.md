@@ -15,6 +15,7 @@ Algumas das linguagens e ferramentas que tenho mais utilizado para o desenvolvim
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=FFF&style=flat-square)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=FFF&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=FFF&style=flat-square)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=FFF&style=flat-square)
 
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=FFF&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=FFF&style=flat-square)
