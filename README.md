@@ -13,7 +13,6 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 ![Gatsby JS](https://img.shields.io/badge/-Gatsby%20JS-663399?logo=gatsby&logoColor=FFF&style=flat-square)
 ![Next JS](https://img.shields.io/badge/-Next%20JS-000000?logo=next.js&logoColor=FFF&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=FFF&style=flat-square)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=FFF&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=FFF&style=flat-square)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=FFF&style=flat-square)
 
@@ -24,6 +23,7 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFF&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=FFF&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=FFF&style=flat-square)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=FFF&style=flat-square)
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=FFF&style=flat-square)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchain.com&logoColor=FFF&style=flat-square)
