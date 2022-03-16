@@ -13,6 +13,7 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 ![Gatsby JS](https://img.shields.io/badge/-Gatsby%20JS-663399?logo=gatsby&logoColor=FFF&style=flat-square)
 ![Next JS](https://img.shields.io/badge/-Next%20JS-000000?logo=next.js&logoColor=FFF&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=FFF&style=flat-square)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=FFF&style=flat-square)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=FFF&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=flat-square)
