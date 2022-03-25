@@ -13,8 +13,10 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 ![Gatsby JS](https://img.shields.io/badge/-Gatsby%20JS-663399?logo=gatsby&logoColor=FFF&style=flat-square)
 ![Next JS](https://img.shields.io/badge/-Next%20JS-000000?logo=next.js&logoColor=FFF&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=FFF&style=flat-square)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=FFF&style=flat-square)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=FFF&style=flat-square)
+![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?logo=github-actions&logoColor=FFF&style=flat-square)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=FFF&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=flat-square)
 
@@ -29,8 +31,7 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=FFF&style=flat-square)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchain.com&logoColor=FFF&style=flat-square)
-
-
+![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?logo=open-source-initiative&logoColor=FFF&style=flat-square)
 
 ## 🚀 Atualmente estou
 - 🌱 Aprendendo Typescript, Next.js, Nest.js e outras tecnologias full-stack
