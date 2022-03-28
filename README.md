@@ -16,7 +16,6 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=FFF&style=flat-square)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=FFF&style=flat-square)
-![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?logo=github-actions&logoColor=FFF&style=flat-square)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=FFF&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=FFF&style=flat-square)
 
