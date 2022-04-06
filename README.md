@@ -33,10 +33,10 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 ![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?logo=open-source-initiative&logoColor=FFF&style=flat-square)
 
 ## 🚀 Atualmente estou
-- 🌱 Aprendendo Typescript, Next.js, Nest.js e outras tecnologias full-stack
-- ⚡ Melhorando minhas habilidades e fazendo das boas práticas um hábito
-- 👩‍🏫 Mentorando e sendo mentorado
-- 🤓 Expandindo o network e construindo grandes amizades no caminho
+- Aprendendo Typescript, Next.js, Nest.js e outras tecnologias full-stack
+- Melhorando minhas habilidades e fazendo das boas práticas um hábito
+- Mentorando e sendo mentorado
+- Expandindo o network e construindo grandes amizades no caminho
 
 ## 💬 Fale comigo
 Fique à vontade para entrar em contato comigo pelos outros canais de comunição:
