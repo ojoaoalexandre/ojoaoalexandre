@@ -30,7 +30,6 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=FFF&style=flat-square)
 ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchain.com&logoColor=FFF&style=flat-square)
-![Open Source](https://img.shields.io/badge/-Open%20Source-3DA639?logo=open-source-initiative&logoColor=FFF&style=flat-square)
 
 ## 🚀 Atualmente estou
 - Aprendendo Typescript, Next.js, Nest.js e outras tecnologias full-stack
