@@ -8,6 +8,7 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![Typescript JS](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=FFF&style=flat-square)
 ![Node JS](https://img.shields.io/badge/-Node%20JS-339933?logo=node.js&logoColor=FFF&style=flat-square)
+
 ![React JS](https://img.shields.io/badge/-React%20JS-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![Nest JS](https://img.shields.io/badge/-Nest%20JS-E0234E?logo=nestjs&logoColor=FFF&style=flat-square)
 ![Gatsby JS](https://img.shields.io/badge/-Gatsby%20JS-663399?logo=gatsby&logoColor=FFF&style=flat-square)
