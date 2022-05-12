@@ -38,8 +38,6 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 - Mentorando e sendo mentorado
 - Expandindo o network e construindo grandes amizades no caminho
 
-<a href="http://www.github.com/alexandrebekor"><img src="https://activity-graph.herokuapp.com/graph?username=alexandrebekor&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ## 💬 Fale comigo
 Fique à vontade para entrar em contato comigo pelos outros canais de comunição:
 
