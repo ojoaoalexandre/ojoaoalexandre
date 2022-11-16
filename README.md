@@ -29,9 +29,6 @@ Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=FFF&style=flat-square)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=FFF&style=flat-square)
 
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=FFF&style=flat-square)
-![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?logo=blockchain.com&logoColor=FFF&style=flat-square)
-
 ## 🚀 Atualmente estou
 - Aprendendo Typescript, Next.js, Nest.js e outras tecnologias full-stack
 - Melhorando minhas habilidades e fazendo das boas práticas um hábito
