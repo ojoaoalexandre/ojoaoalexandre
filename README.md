@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou Alexandre
-Sou **desenvolvedor full-stack**, imerso na criação de soluções em software desde 2017 e apaixonado pelo impacto positivo da programação nos negócios, e na sociedade!
+Sou **desenvolvedor full-stack**, imerso na criação de soluções em software desde 2012 e apaixonado pelo impacto positivo da programação nos negócios, e na sociedade!
 
 Algumas das linguagens e ferramentas que mais utilizo para o desenvolvimento de projetos são:
 
