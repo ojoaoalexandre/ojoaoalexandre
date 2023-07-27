@@ -5,3 +5,11 @@ GET http://localhost:3333/users
 ###
 
 POST http://localhost:3333/users
+
+{
+  "name": "Alexandre",
+  "email": "staff@agenciabekor.com"
+}
+
+###
+GET http://localhost:3333/notFound
