@@ -1,6 +1,12 @@
 GET {{$dotenv BASE_URL}}/transactions
 
 ###
+GET {{$dotenv BASE_URL}}/transactions/aad67e0a-b759-42ac-ba65-ccd851e7c6df
+
+###
+GET {{$dotenv BASE_URL}}/transactions/report
+
+###
 
 POST {{$dotenv BASE_URL}}/transactions
 Content-Type: application/json
