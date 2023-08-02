@@ -1,22 +1,17 @@
 import fastify from "fastify";
-import { database } from "./database";
-import { randomUUID } from "crypto";
+import { env } from "./env";
+import { transactionsRoutes } from "./routes/transactions";
 
 const app = fastify();
 
-app.get("/users", async () => {
-  await database("transactions").insert({
-    id: randomUUID(),
-    description: "Primeiro registro",
-    amount: 10.2,
-  });
-
-  const transaction = database("transactions").select("*");
-  return transaction;
+app.register(transactionsRoutes, {
+  prefix: "transactions",
 });
 
 try {
-  app.listen({ port: 3333 }).then(() => console.log("Server is running..."));
+  app
+    .listen({ port: env.PORT })
+    .then(() => console.log("Server is running..."));
 } catch (error) {
   app.log.error(error);
 }

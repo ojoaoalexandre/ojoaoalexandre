@@ -1,13 +1,13 @@
 @url = 'http://localhost:3333'
 
-GET http://localhost:3333/users?teste=123&id=23
+GET http://localhost:3333/users
 
 ###
 
 POST http://localhost:3333/users
 
 {
-  "name": "Alexandre 1",
+  "name": "Alexandre 2",
   "email": "staff@agenciabekor.com"
 }
 
