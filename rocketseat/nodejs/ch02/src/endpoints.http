@@ -1,7 +1,7 @@
 GET {{$dotenv BASE_URL}}/transactions
 
 ###
-GET {{$dotenv BASE_URL}}/transactions/aad67e0a-b759-42ac-ba65-ccd851e7c6df
+GET {{$dotenv BASE_URL}}/transactions/dffa1e47-2c66-4f83-90c7-01c7393a246d
 
 ###
 GET {{$dotenv BASE_URL}}/transactions/report
@@ -12,9 +12,9 @@ POST {{$dotenv BASE_URL}}/transactions
 Content-Type: application/json
 
 {
- "description": "Two register",
- "amount": 30,
- "type": "debit"
+ "description": "New register",
+ "amount": 1000,
+ "type": "credit"
 }
 
 ###
