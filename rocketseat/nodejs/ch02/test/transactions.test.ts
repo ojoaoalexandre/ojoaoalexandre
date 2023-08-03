@@ -1,6 +1,7 @@
-import { test, beforeAll, afterAll, describe, it, expect } from "vitest";
+import { beforeAll, afterAll, describe, it, expect, beforeEach } from "vitest";
 import request from "supertest";
 import { app } from "../src/app";
+import { execSync } from "child_process";
 
 describe("Transactions Routes", () => {
   beforeAll(async () => {
@@ -9,6 +10,11 @@ describe("Transactions Routes", () => {
 
   afterAll(async () => {
     await app.close();
+  });
+
+  beforeEach(() => {
+    execSync("NODE_ENV=test npm run knex -- migrate:rollback --all");
+    execSync("NODE_ENV=test npm run knex -- migrate:latest");
   });
 
   // it ou test, tanto faz, dão o mesmo resultado
@@ -21,6 +27,36 @@ describe("Transactions Routes", () => {
         type: "credit",
       })
       .expect(201);
+  });
+
+  it("should be able to get a specific transaction", async () => {
+    const createTransactionsResponse = await request(app.server)
+      .post("/transactions")
+      .send({
+        description: "Transaction",
+        amount: 12000,
+        type: "credit",
+      });
+
+    const cookies = createTransactionsResponse.get("Set-Cookie");
+
+    const getAllTransactionsresponse = await request(app.server)
+      .get("/transactions")
+      .set("Cookie", cookies)
+      .expect(200);
+
+    const transactionId = getAllTransactionsresponse.body.transactions[0].id;
+    const getTransactionResponse = await request(app.server)
+      .get(`/transactions/${transactionId}`)
+      .set("Cookie", cookies)
+      .expect(200);
+
+    expect(getTransactionResponse.body.transaction).toEqual(
+      expect.objectContaining({
+        description: "Transaction",
+        amount: 12000,
+      })
+    );
   });
 
   // it.skip("should be ..."...) -> Pular o teste

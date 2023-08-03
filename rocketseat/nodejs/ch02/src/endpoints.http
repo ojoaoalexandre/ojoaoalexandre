@@ -13,7 +13,7 @@ Content-Type: application/json
 
 {
  "description": "New register",
- "amount": 1000,
+ "amount": 12000,
  "type": "credit"
 }
 
