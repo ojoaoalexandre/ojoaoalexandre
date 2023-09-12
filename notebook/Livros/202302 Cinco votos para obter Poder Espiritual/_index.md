@@ -1,3 +1,8 @@
+---
+Started in: 2023-08-15
+Finished at: 2023-08-24
+---
+
 ## Trate Seriamente o Pecado
 Não invente nomes para o seu pecado, nem busque justificativas para os seus comportamentos pecaminosos.
 Inveja sem será inveja, se sentir mal humorado não pode ser disfarçado como uma simples indignação, viver se sentindo com baixa auto estima sempre será autopiedade.

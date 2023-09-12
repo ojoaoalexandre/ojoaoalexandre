@@ -1,3 +1,8 @@
+---
+Started in: 2023-07-24
+Finished at: 2023-07-31
+---
+
 > Você não é feito em um crise, você é revelado nela.
 > Jack Kinder
 
