@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "39ddcd218d3c3f7f",
+        "id": "8a6922bdf7aa47ca",
         "type": "tabs",
         "children": [
           {
-            "id": "a818365634ad7bb0",
+            "id": "2bec757dbced14fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/202303 Ultra Aprendizado/_index.md",
+                "file": "Devocional/20230907.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6341c2859bfd49ab",
+            "id": "8b6a769ed43452d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros/202302 Cinco votos para obter Poder Espiritual/_index.md",
+                "file": "Devocional/20230903 @ Decisão e Direção.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Livros/202302 Cinco votos para obter Poder Espiritual/_index.md",
+                "file": "Devocional/20230903 @ Decisão e Direção.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Livros/202302 Cinco votos para obter Poder Espiritual/_index.md",
+                "file": "Devocional/20230903 @ Decisão e Direção.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livros/202302 Cinco votos para obter Poder Espiritual/_index.md"
+                "file": "Devocional/20230903 @ Decisão e Direção.md"
               }
             }
           }
@@ -159,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6341c2859bfd49ab",
+  "active": "8b6a769ed43452d9",
   "lastOpenFiles": [
+    "Devocional/20230907.md",
+    "Devocional/20230903 @ Decisão e Direção.md",
+    "Livros/202301 Lidere em Tempos Difícies/_index.md",
     "Livros/202302 Cinco votos para obter Poder Espiritual/_index.md",
     "Livros/202303 Ultra Aprendizado/01 @ Meta Aprendizagem.md",
     "Livros/202303 Ultra Aprendizado/_index.md",
