@@ -1,1 +1,0 @@
-É a estrutura que lida com a entrada de uma requisição HTTP e com a resposta dessa requisição para o cliente.

@@ -1,5 +1,0 @@
----
-Autor: 
-Acesso: 
-Started in: ""
----
