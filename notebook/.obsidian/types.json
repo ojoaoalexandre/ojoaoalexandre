@@ -5,6 +5,9 @@
     "tags": "tags",
     "Date": "date",
     "Started in": "date",
-    "Finished at": "date"
+    "Finished at": "date",
+    "Channel": "multitext",
+    "Published At": "date",
+    "Media": "multitext"
   }
 }

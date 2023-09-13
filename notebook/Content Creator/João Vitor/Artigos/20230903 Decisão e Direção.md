@@ -1,3 +1,5 @@
+#decisão #direcionamento
+
 > Determinou-lhes o rei a ração diária, das finas iguarias da mesa real e do vinho que ele bebia, e que assim fossem mantidos por três anos, ao cabo dos quais assistiriam diante do rei.
 > Daniel 1:5 ARA
 

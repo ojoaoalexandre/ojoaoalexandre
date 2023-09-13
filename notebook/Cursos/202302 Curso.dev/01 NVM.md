@@ -1,3 +1,5 @@
+#nvm #nodejs
+
 As versões de node.js podem ser gerenciadas em uma mesma máquina com o `nvm`, que facilita o gerenciamento e a instalação de novas versões.
 
 Listar comandos disponíveis:

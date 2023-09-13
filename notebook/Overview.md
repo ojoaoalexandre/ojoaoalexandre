@@ -46,7 +46,7 @@ empty:📕
 length:10
 ```
 ```text-progress-bar
-Ultra Aprendizado:86/308
+Ultra Aprendizado:91/308
 transition:📙
 fill:📘
 empty:📕

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cffba71086b333b7",
+        "id": "a01548b8605ef240",
         "type": "tabs",
         "children": [
           {
-            "id": "22b53fa424e5c7b4",
+            "id": "d55360722b60da6e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -120,8 +120,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "be7c3bb88ab3a687",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,46 +144,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
     }
   },
-  "active": "22b53fa424e5c7b4",
+  "active": "d55360722b60da6e",
   "lastOpenFiles": [
-    "Devocional/20230903 Decisão e Direção.md",
+    "Content Creator/Alexandre Bekor/Teste.md",
+    "Content Creator/João Vitor/Artigos/20230903 Decisão e Direção.md",
+    "Content Creator/João Vitor/Vídeos",
+    "Content Creator/Alexandre Bekor/Vídeos",
+    "Content Creator/João Vitor/Artigos",
+    "Content Creator/João Vitor",
+    "Content Creator/Alexandre Bekor/Artigos",
+    "Content Creator/Alexandre Bekor",
+    "Content Creator",
+    "Content Creator/Alexandre Bekor/02 Teste.md",
+    "Content Creator/Alexandre Bekor/01 Teste.md",
     "Devocional/20230907.md",
     "Overview.md",
+    "Content Creator/Blog/Untitled",
+    "Cursos/202302 Curso.dev/01 NVM.md",
+    "Livros/202303 Ultra Aprendizado/_index.md",
+    "Content Creator/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Content Creator/Alexandre Bekor",
+    "Content Creator/João Vitor",
+    "Content Creator/Why You Should Be Taking More Notes.md",
+    "Content Creator/What I Learned From Taking 15,000 Notes.md",
+    "Content Creator/The Easiest Way to Start Taking Notes.md",
+    "Content Creator/The Best Notes You'll Ever Make.md",
+    "Livros/202303 Ultra Aprendizado/02 Foco.md",
+    "Livros/202303 Ultra Aprendizado/01 Meta Aprendizagem.md",
     "Livros/Responsabilidade Extrema/_index.md",
     "Livros/Javascript - The definitive guide/_index.md",
     "Livros/Enviesados/_index.md",
     "Livros/Cracking the Coding Interview/_index.md",
     "Livros/Como fazer amigos e influenciar pessoas na Era Digital/_index.md",
     "Livros/202304 Eloquent Javascript/_index.md",
-    "Livros/202303 Ultra Aprendizado/_index.md",
     "Cursos/202303 RocketSeat - Node.JS/Módulo 03/01 Requisitos e Regras.md",
-    "Livros/202303 Ultra Aprendizado/01 Meta Aprendizagem.md",
-    "Cursos/202302 Curso.dev/01 NVM.md",
     "Cursos/202303 RocketSeat - Node.JS/Módulo 03/09 Controllers.md",
     "Cursos/202303 RocketSeat - Node.JS/Módulo 03/08 Zod.md",
     "Cursos/202303 RocketSeat - Node.JS/Módulo 03/07 Relacionamento no Prisma ORM.md",
-    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/06 Docker.md",
-    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/05 Drivers.md",
-    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/04 Aliases de Importação.md",
-    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/03 ESLint.md",
-    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/02 Carregamento de Variáveis.md",
-    "Cursos/202303 RocketSeat - Node.JS/_index.md",
-    "Cursos/202303 RocketSeat - Node.JS/Módulo 03",
-    "Cursos/202302 Curso.dev/_index.md",
-    "Livros/202301 Lidere em Tempos Difícies/_index.md",
-    "Livros/Cracking the Coding Interview",
-    "Livros/Responsabilidade Extrema",
-    "Livros/Enviesados",
-    "Livros/Como fazer amigos e influenciar pessoas na Era Digital",
-    "Livros/Javascript - The definitive guide",
-    "Cursos/RocketSeat - React.JS/_index.md",
-    "Cursos/Rock the TOEFL/_index.md",
-    "Cursos/RocketSeat - React.JS",
-    "Cursos/Rock the TOEFL",
-    "Cursos/Whatsapp Marketing",
-    "Cursos/Testes em Javascript"
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/06 Docker.md"
   ]
 }
