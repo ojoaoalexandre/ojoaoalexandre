@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a01548b8605ef240",
+        "id": "dbb96abd66d8aae3",
         "type": "tabs",
         "children": [
           {
-            "id": "d55360722b60da6e",
+            "id": "2a571eb93b49cc17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Bekor Studio/Agência Bekor/01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bekor Studio/Agência Bekor/01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bekor Studio/Agência Bekor/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bekor Studio/Agência Bekor/01.md"
+              }
             }
           },
           {
@@ -149,17 +157,20 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d55360722b60da6e",
+  "active": "2a571eb93b49cc17",
   "lastOpenFiles": [
+    "Bekor Studio/Agência Bekor/01.md",
+    "Bekor Studio/IIGD",
+    "Bekor Studio/Agência Bekor",
     "Content Creator/Alexandre Bekor/Teste.md",
     "Content Creator/João Vitor/Artigos/20230903 Decisão e Direção.md",
     "Content Creator/João Vitor/Vídeos",
     "Content Creator/Alexandre Bekor/Vídeos",
     "Content Creator/João Vitor/Artigos",
-    "Content Creator/João Vitor",
+    "Bekor Studio/João Vitor",
     "Content Creator/Alexandre Bekor/Artigos",
-    "Content Creator/Alexandre Bekor",
-    "Content Creator",
+    "Bekor Studio/Alexandre Bekor",
+    "Bekor Studio",
     "Content Creator/Alexandre Bekor/02 Teste.md",
     "Content Creator/Alexandre Bekor/01 Teste.md",
     "Devocional/20230907.md",
@@ -168,8 +179,6 @@
     "Cursos/202302 Curso.dev/01 NVM.md",
     "Livros/202303 Ultra Aprendizado/_index.md",
     "Content Creator/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Content Creator/Alexandre Bekor",
-    "Content Creator/João Vitor",
     "Content Creator/Why You Should Be Taking More Notes.md",
     "Content Creator/What I Learned From Taking 15,000 Notes.md",
     "Content Creator/The Easiest Way to Start Taking Notes.md",
@@ -185,7 +194,6 @@
     "Cursos/202303 RocketSeat - Node.JS/Módulo 03/01 Requisitos e Regras.md",
     "Cursos/202303 RocketSeat - Node.JS/Módulo 03/09 Controllers.md",
     "Cursos/202303 RocketSeat - Node.JS/Módulo 03/08 Zod.md",
-    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/07 Relacionamento no Prisma ORM.md",
-    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/06 Docker.md"
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/07 Relacionamento no Prisma ORM.md"
   ]
 }
