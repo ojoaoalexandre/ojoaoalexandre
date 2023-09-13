@@ -1,3 +1,7 @@
+---
+tags:
+  - ESLint
+---
 Com o ESLint é possível manter uma padronização de código e podemos criar essas regras desde o zero executando o comando:
 
 ```bash

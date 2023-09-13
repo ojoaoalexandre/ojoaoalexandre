@@ -1,3 +1,7 @@
+---
+tags:
+  - Variáveis
+---
 A biblioteca `dotenv` facilia o acesso aos arquivos de configuração de Variaveis de Ambiente:
 
 ```

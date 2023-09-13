@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b8d397e2367d163",
+        "id": "cffba71086b333b7",
         "type": "tabs",
         "children": [
           {
-            "id": "1ab2bebb29916ca7",
+            "id": "22b53fa424e5c7b4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -121,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,43 +138,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab2bebb29916ca7",
+  "active": "22b53fa424e5c7b4",
   "lastOpenFiles": [
-    "Cursos/202303 RocketSeat - Node.JS/09 @ Controllers.md",
-    "Cursos/202303 RocketSeat - Node.JS/08 @ Zod.md",
-    "Cursos/202303 RocketSeat - Node.JS/07 @ Relacionamento no Prisma ORM.md",
-    "Cursos/202303 RocketSeat - Node.JS/06 @ Docker.md",
-    "Cursos/202303 RocketSeat - Node.JS/05 @ Drivers.md",
-    "Cursos/202303 RocketSeat - Node.JS/04 @ Aliases de Importação.md",
-    "Cursos/202303 RocketSeat - Node.JS/02 @ Carregamento de Variáveis.md",
-    "Cursos/202303 RocketSeat - Node.JS/03 @ ESLint.md",
-    "Cursos/202303 RocketSeat - Node.JS/01 @ Requisitos e Regras.md",
-    "Cursos/202302 Curso.dev/01 @ NVM.md",
+    "Devocional/20230903 Decisão e Direção.md",
+    "Devocional/20230907.md",
+    "Overview.md",
+    "Livros/Responsabilidade Extrema/_index.md",
+    "Livros/Javascript - The definitive guide/_index.md",
+    "Livros/Enviesados/_index.md",
+    "Livros/Cracking the Coding Interview/_index.md",
+    "Livros/Como fazer amigos e influenciar pessoas na Era Digital/_index.md",
+    "Livros/202304 Eloquent Javascript/_index.md",
+    "Livros/202303 Ultra Aprendizado/_index.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/01 Requisitos e Regras.md",
+    "Livros/202303 Ultra Aprendizado/01 Meta Aprendizagem.md",
+    "Cursos/202302 Curso.dev/01 NVM.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/09 Controllers.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/08 Zod.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/07 Relacionamento no Prisma ORM.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/06 Docker.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/05 Drivers.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/04 Aliases de Importação.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/03 ESLint.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03/02 Carregamento de Variáveis.md",
+    "Cursos/202303 RocketSeat - Node.JS/_index.md",
+    "Cursos/202303 RocketSeat - Node.JS/Módulo 03",
     "Cursos/202302 Curso.dev/_index.md",
-    "Livros/202303 Ultra Aprendizado/01 @ Meta Aprendizagem.md",
     "Livros/202301 Lidere em Tempos Difícies/_index.md",
     "Livros/Cracking the Coding Interview",
     "Livros/Responsabilidade Extrema",
     "Livros/Enviesados",
     "Livros/Como fazer amigos e influenciar pessoas na Era Digital",
     "Livros/Javascript - The definitive guide",
-    "Devocional/20230903 @ Decisão e Direção.md",
     "Cursos/RocketSeat - React.JS/_index.md",
     "Cursos/Rock the TOEFL/_index.md",
     "Cursos/RocketSeat - React.JS",
-    "Cursos/Testes em Javascript/_index.md",
     "Cursos/Rock the TOEFL",
-    "Cursos/Whatsapp Marketing/_index.md",
     "Cursos/Whatsapp Marketing",
-    "Cursos/React Avançado/_index.md",
-    "Cursos/202304 English In Brazil/_index.md",
-    "Cursos/Testes em Javascript",
-    "Cursos/React Avançado",
-    "Cursos/202303 RocketSeat - Node.JS/_index.md",
-    "Cursos/202301 Curso de Figma/_index.md",
-    "Devocional/20230907.md",
-    "Livros/202303 Ultra Aprendizado/_index.md",
-    "Livros/202302 Cinco votos para obter Poder Espiritual/_index.md",
-    "2023-07-31.md"
+    "Cursos/Testes em Javascript"
   ]
 }
