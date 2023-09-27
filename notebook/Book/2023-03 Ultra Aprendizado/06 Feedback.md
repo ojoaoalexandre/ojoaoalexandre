@@ -1,4 +1,3 @@
-# Feedback
 > Os ultra-aprendizes adquirem habilidades com muita rapidez porque procuram feedbacks agressivos
 
 Existem 3 principais tipos de feedbacks:
@@ -11,9 +10,7 @@ Diferente do feedback de resultado, esse é mais detalhado porque expressa o que
 
 ## Feedback corretivo
 É o mais completo, por que também revela como corrigir o erro e só pode ser transmitido por um instrutor.
-
 Para ter um melhor Feedback considere:
-
 ## Supressão de ruidos
 Todo Feedback é a soma de ruídos e a informação fundamental que pode te ajudar a melhorar a habilidade, aprenda a filtrar esses ruídos desconsiderando as aleatoriedades e buscando avaliar as métricas que de fato dizem respeito ao seu progresso.
 Por exemplo, quando iniciamos um blog pode ser que no início tenhamos poucos acessos ou que algum de nossos conteúdos receba um número de acessos totalmente anormal por conta de algum compartilhamento específico, o aparente sucesso desse artigo não pode servir de métrica fundamental para tomar decisões a respeito da sua habilidade de escrita, nesse caso o número de acesso é menos importante do que o número de pessoas que leram o artigo até o final.
