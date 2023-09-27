@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "88000501c206c552",
+        "id": "6b74cf39b458ac3c",
         "type": "tabs",
         "children": [
           {
-            "id": "476cb8c856cb298b",
+            "id": "cef596ed821b73c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Course/2023-01 RocketSeat - Node.js/_index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Course/2023-01 RocketSeat - Node.js/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Course/2023-01 RocketSeat - Node.js/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Course/2023-01 RocketSeat - Node.js/_index.md"
+              }
             }
           }
         ]
@@ -138,10 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "476cb8c856cb298b",
+  "active": "cef596ed821b73c7",
   "lastOpenFiles": [
-    "Course/2023-02 Curso.dev/01 NVM.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/12 Controllers.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/11 Zod.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/10 Relacionamento com Prisma ORM.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/09 Básico do Docker.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/08 Drivers.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/07 Aliases de Importação.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/06 ESLint.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/05 Carregamento de Variáveis.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/04 Requisitos e Regras.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/03 Streams.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/02 Rotas Http.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/01 Fundamentos.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01",
+    "Course/2023-01 RocketSeat - Node.js/_index.md",
+    "Course/2023-02 Curso.dev/_index.md",
     "Book/2023-03 Ultra Aprendizado/_index.md",
+    "Devocional/2023-09-27.md",
+    "Course/2023-01 RocketSeat - Node.js",
+    "Course/2023-02 Curso.dev/01 NVM.md",
     "Course/2023-02 Curso.dev",
     "Course",
     "Book/2023-02 Cinco Votos/_index.md",
@@ -155,7 +180,6 @@
     "Book/2023-02 Cinco Votos",
     "Book/2023-01 Lidere em Tempos Difíceis",
     "Book/2023-ultra-aprendizado/Untitled",
-    "Devocional/2023-09-27.md",
     "Devocional",
     "Book",
     "Book/2023-03 Ultra Aprendizado"
