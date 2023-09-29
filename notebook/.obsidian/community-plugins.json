@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "text-progress-bar"
+  "text-progress-bar",
+  "heatmap-calendar",
+  "dataview",
+  "calendar"
 ]

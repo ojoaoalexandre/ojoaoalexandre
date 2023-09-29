@@ -2,11 +2,9 @@ O conceito de Streams pode ser associado à capacidade de ler pequenos fragmento
 
 Se precisamos realizar a importação e leitura de um arquivo de 1GB de forma síncrona, teríamos que aguardar o carregamento completo do documento, enquanto isso o sistema fica travado, e depois do upload faríamos as operações com os dados importados.
 
-<aside> 🧠 Vamos supor que faremos o upload desse arquivo de 1GB em uma rede de 10Mb (Megabits) de transferência. O tempo de upload seria de 1024 * 8 / 10 = 819,2 segundos (13 minutos e 40 segundos)
+🧠 Vamos supor que faremos o upload desse arquivo de 1GB em uma rede de 10Mb (Megabits) de transferência. O tempo de upload seria de 1024 * 8 / 10 = 819,2 segundos (13 minutos e 40 segundos)
 
 Se esse arquivo possui 1.000.000 de linhas em cada segundo teríamos 1.000.000 / 1024 = 976,5 linhas/megabite * 10 mb = 9765 linhas
-
-</aside>
 
 Os dois principais tipos de streams são Readtable, que nos permite a leitura de dados e Writable, que nos permite a escrita.
 
@@ -104,3 +102,73 @@ new OneHundredStream().pipe(multiplyByTen)
 ## Transform
 
 A Stream de transformação precisa obrigatoriamente ler dados de algum lugar e retornar esses dados para uma stream que os escreva.
+
+```javascript
+import { Transform } from 'node:stream'
+
+class InverseSignal extends Transform {
+	_transform(chunck, encoding, callback) {
+		const transformed = Number(chunck.toString()) * -1
+		const buffer = Buffer.from(String(transformed))
+		callback(null, buffer)
+	}
+}
+```
+
+## Request e Response
+É importante lembrar que os parâmetros `request` e `response` são Streams, sendo assim podem ser utilizadas para transferência de dados conforme o carregamento, para simular esse comportamento vamos fazer um servidor e criar um arquivo que execute o envio gradual desses dados:
+
+```javascript
+// request => Readable Stream
+// response => Writable Stream
+
+// server.js
+import http from 'node:http'
+import { Transform } from 'node:stream'
+
+class InverseValue extends Transform {
+	_transform(chunck, encoding, callback) {
+		const transformed = Number(chunck.toString()) * -1
+		const buffer = Buffer.from(String(transformed))
+
+		console.log(transformed)
+		callback(null, buffer)
+	}
+}
+
+const server = http.createServer((request, response) =>{
+	return request.pipe(new InverseValue).pipe(response)
+})
+
+server.listen(3333)
+```
+
+Para enviar os dados vamos usar um `Readable` que gere os valores em lotes:
+
+```javascript
+// fakeUpload.js
+impot { Readable } from 'node:stream'
+
+class Read extends Readble {
+	index = 1
+
+	_read() {
+		const i = this.index++
+		if(i < 1000) {
+			const buffer = Buffer.from(String(i) + '\n')
+			this.push(buffer)
+		} else {
+			this.push(null)
+		}
+	}
+}
+
+// Desde a versão 18 o node suporta nativamente a api fetch
+fetch('http://localhost:3333', {
+	method: 'POST', // Quando se trata de envio de dados o método precisa ser POST ou PUT
+	body: new Read(),
+	duplex: 'half'	
+})
+```
+
+Agora basta iniciar o servidor e, em seguida, iniciar o `fakeUpload` para verificar os resultados no terminal.
