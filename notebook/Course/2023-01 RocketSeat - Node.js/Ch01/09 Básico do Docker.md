@@ -50,21 +50,18 @@ services:
     ports:
       - 5432:5432
     environment:
-
 ```
 
 Para executar esse container:
 
 ```
 docker compose up -d
-
 ```
 
 Para parar a execução do container:
 
 ```
 docker compose stop
-
 ```
 
 > ⚠ CUIDADO! O comando docker compose down não pára o container, ele os deleta, fazendo com que você perca todos os dados persistidos, não confunda.
