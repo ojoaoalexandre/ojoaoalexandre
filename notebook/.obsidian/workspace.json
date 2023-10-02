@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c831ad6bbc95ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sermons/2023-10-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workaday.md",
+                "file": "Sermons/2023-10-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workaday.md",
+                "file": "Sermons/2023-10-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workaday.md"
+                "file": "Sermons/2023-10-02.md"
               }
             }
           },
@@ -168,10 +181,13 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "4e68932178d78754",
+  "active": "93d2848b6e0e00c8",
   "lastOpenFiles": [
-    "Devocional/2023-09-27.md",
+    "Sermons/_index.md",
+    "Sermons/2023-10-02.md",
     "Workaday.md",
+    "Sermons",
+    "Devocional/2023-09-27.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/03 Streams.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/01 Fundamentos.md",
     "Course/2023-01 RocketSeat - Node.js/_index.md",
@@ -200,12 +216,9 @@
     "Course/2023-02 Curso.dev",
     "Course",
     "Book/2023-02 Cinco Votos/_index.md",
-    "Book/2023-01 Lidere em Tempos Difíceis/_index.md",
-    "Book/2023-03 Ultra Aprendizado/02 Foco.md",
     "Book/2023-02 Cinco Votos",
     "Book/2023-01 Lidere em Tempos Difíceis",
     "Book/2023-ultra-aprendizado/Untitled",
-    "Devocional",
-    "Book"
+    "Devocional"
   ]
 }
