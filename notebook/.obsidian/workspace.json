@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -179,6 +179,8 @@
   },
   "active": "e9cfe26d73dc0fc4",
   "lastOpenFiles": [
+    "Devocional/2023-10-05.md",
+    "Workaday.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02/01 Basic.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02/02 Banco de Dados.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/08 Drivers.md",
@@ -186,7 +188,6 @@
     "Course/2023-01 RocketSeat - Node.js/Ch01/06 ESLint.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/05 Carregamento de Variáveis.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/04 Requisitos e Regras.md",
-    "Workaday.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02",
     "Course/2023-01 RocketSeat - Node.js/Ch01/09 Básico do Docker.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/10 Relacionamento com Prisma ORM.md",
@@ -208,7 +209,6 @@
     "Template",
     "Untitled.canvas",
     "Book/2023-03 Ultra Aprendizado/_index.md",
-    "Book/2023-03 Ultra Aprendizado/06 Feedback.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01",
     "Course/2023-01 RocketSeat - Node.js",
     "Course/2023-02 Curso.dev",
