@@ -1,3 +1,5 @@
+#node
+
 ```json
 npm init -y
 ```
@@ -38,6 +40,7 @@ server.listen(3000)
 ```
 
 ## Atualização Automatizada
+#node-watch #node 
 
 Ao atualizar o código é muito útil que ele seja imediatamente executado para observarmos seus resultados, anteriormente precisávamos de bibliotecas externas que monitorassem essas alterações e reinicializassem o servidor, agora temos o recurso nativo:
 

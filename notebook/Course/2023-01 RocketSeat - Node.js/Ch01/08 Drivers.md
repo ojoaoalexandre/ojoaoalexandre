@@ -1,10 +1,10 @@
 Existem várias estratégias de interação com o banco de dados, e as principais podem ser agrupadas em:
 
 ### Driver Nativos
-
 É a forma de menor abstração, onde um conector específico do banco de dados é disponibilizado e utilizamos comandos em SQL para interagir por meio dele.
 
 ### Query Builders
+São construtores de `queries` que abstraem diversos recursos de interação com o banco de dados, um dos mais conhecidos no javascript é o `knex.js`.
 
 ### ORMs (Object Relational Mapper)
 

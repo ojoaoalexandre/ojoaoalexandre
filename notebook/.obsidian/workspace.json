@@ -4,28 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a8592a6eedc3efcc",
+        "id": "8abf7f35db2d9b59",
         "type": "tabs",
         "children": [
           {
-            "id": "4e68932178d78754",
+            "id": "aef16029f59ef644",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9cfe26d73dc0fc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Workaday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c831ad6bbc95ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sermons/2023-10-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sermons/2023-10-02.md",
+                "file": "Workaday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sermons/2023-10-02.md",
+                "file": "Workaday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sermons/2023-10-02.md"
+                "file": "Workaday.md"
               }
             }
           },
@@ -181,44 +177,44 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "93d2848b6e0e00c8",
+  "active": "e9cfe26d73dc0fc4",
   "lastOpenFiles": [
-    "Sermons/_index.md",
-    "Sermons/2023-10-02.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch02/01 Basic.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch02/02 Banco de Dados.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/08 Drivers.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/12 Controllers.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/06 ESLint.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/05 Carregamento de Variáveis.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/04 Requisitos e Regras.md",
     "Workaday.md",
-    "Sermons",
-    "Devocional/2023-09-27.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch02",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/09 Básico do Docker.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/10 Relacionamento com Prisma ORM.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/11 Zod.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/03.01 Transição de dados.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/03 Streams.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/01 Fundamentos.md",
-    "Course/2023-01 RocketSeat - Node.js/_index.md",
+    "Devocional/2023-10-04.md",
+    "Devocional/2023-09-27.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/02 Rotas Http.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/01 Fundamentos.md",
+    "Sermons/2023-10-02.md",
+    "Sermons/_index.md",
+    "Sermons",
+    "Course/2023-01 RocketSeat - Node.js/_index.md",
     "Book/2023-03 Ultra Aprendizado/07 Retenção.md",
     "Template/Devocional.md",
     "Devocional/2023-09-29.md",
     "{{date}}.md",
     "Template",
     "Untitled.canvas",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/09 Básico do Docker.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/04 Requisitos e Regras.md",
     "Book/2023-03 Ultra Aprendizado/_index.md",
     "Book/2023-03 Ultra Aprendizado/06 Feedback.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/12 Controllers.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/11 Zod.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/10 Relacionamento com Prisma ORM.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/08 Drivers.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/07 Aliases de Importação.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/06 ESLint.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/05 Carregamento de Variáveis.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01",
-    "Course/2023-02 Curso.dev/_index.md",
     "Course/2023-01 RocketSeat - Node.js",
-    "Course/2023-02 Curso.dev/01 NVM.md",
     "Course/2023-02 Curso.dev",
     "Course",
-    "Book/2023-02 Cinco Votos/_index.md",
     "Book/2023-02 Cinco Votos",
     "Book/2023-01 Lidere em Tempos Difíceis",
-    "Book/2023-ultra-aprendizado/Untitled",
-    "Devocional"
+    "Book/2023-ultra-aprendizado/Untitled"
   ]
 }

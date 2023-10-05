@@ -1,3 +1,5 @@
+#node-streams 
+
 O conceito de Streams pode ser associado à capacidade de ler pequenos fragmentos de um bloco de informação maior.
 
 Se precisamos realizar a importação e leitura de um arquivo de 1GB de forma síncrona, teríamos que aguardar o carregamento completo do documento, enquanto isso o sistema fica travado, e depois do upload faríamos as operações com os dados importados.
@@ -172,3 +174,13 @@ fetch('http://localhost:3333', {
 ```
 
 Agora basta iniciar o servidor e, em seguida, iniciar o `fakeUpload` para verificar os resultados no terminal.
+
+## Buffer
+#buffer
+
+É uma representação de um espaço na memória do computador usado para transitar informações de maneira binária e representação hexadecimal, o que torna a comunicação muito mais performática.
+
+## Middleware
+#middleware
+
+São funções que interceptam e manipulam a requisição e a resposta de uma rota.

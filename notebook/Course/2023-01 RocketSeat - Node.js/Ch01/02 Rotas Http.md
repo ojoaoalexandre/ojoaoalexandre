@@ -1,5 +1,9 @@
+#http
+
 Uma requisição HTTP é composta por dois principais elementos:
 ## Método
+#http-method #http 
+
 São muito mais semânticos!
 
 ```jsx
@@ -40,6 +44,8 @@ server.listen(3000)
 É quando a aplicação faz consulta em recursos externos para recuperar os dados.
 
 ## Cabeçalhos
+#http-header #http 
+
 É uma área de metadados de uma requisição ou de uma resposta, os únicos formatos permitidos para transacionar informações entre o servidor e o brownser são: string, buffers e Uint8Array, porém o formato mais comum de transacionar informações é o JSON devido a sua facilidade de formatação.
 
 Por isso para enviar os dados converteremos nossos objetos e arays em uma string por meio da função `JSON.stringify` e, adicionaremos um metadado importante ao cabeçalho da resposta que informará quem está recebendo essas informações de que se trata de um JSON:
@@ -68,4 +74,6 @@ response.writeHead(200, {
 ```
 
 ## Status Code
+#http-code #http 
+
 Quando devolvemos uma resposta para o front-end temos um sumário de códigos que são utilizados para informar de modo resumido.
