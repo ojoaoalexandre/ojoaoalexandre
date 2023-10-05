@@ -1,6 +1,5 @@
 ---
 Published at:
-  "{ date }":
 ---
 [writing::true]
 

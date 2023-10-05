@@ -34,13 +34,13 @@ renderHeatmapCalendar(this.container, calendarData)
 ### 2023 Concluir 4 cursos
 
 ```text-progress-bar
-RocketSeat: Node.js: 33/182
-English in Brazil: 0/0
-Curso de Figma: 0/0
-Curso dev: 0/0
-React Avançado: 0/0
-Testes em Javascript: 0/0
-Whatsapp Marketing: 0/0
+1. RocketSeat: Node.js: 38/272
+2. English in Brazil: 0/0
+3. Curso de Figma: 0/0
+4. Curso dev: 0/0
+5. React Avançado: 0/0
+6. Testes em Javascript: 0/0
+7. Whatsapp Marketing: 0/0
 
 transition:📖
 fill:📘
@@ -51,15 +51,15 @@ length:10
 ### 2023 Ler 12 livros
 
 ```text-progress-bar
-Lidere em Tempos Difíceis: 142/142
-Cinco Votos: 41/41
-Ultra Aprendizado: 184/308
-Eloquent Javascript: 0/0
-Como fazer amigos e Influenciar Pessoas: 0/0
-Craking the Coding Interview: 0/0
-Responsabilidade Extrema: 0/0
-Javascript: The Definitive Guide: 0/0
-Enviesados: 0/0
+1. Lidere em Tempos Difíceis: 142/142
+2. Cinco Votos: 41/41
+3. Ultra Aprendizado: 196/308
+4. Eloquent Javascript: 0/0
+5. Como fazer amigos e Influenciar Pessoas: 0/0
+6. Craking the Coding Interview: 0/0
+7. Responsabilidade Extrema: 0/0
+8. Javascript: The Definitive Guide: 0/0
+9. Enviesados: 0/0
 
 transition:📖
 fill:📘
