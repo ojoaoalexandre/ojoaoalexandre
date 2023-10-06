@@ -34,7 +34,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ### 2023 Concluir 4 cursos
 
 ```text-progress-bar
-1. RocketSeat: Node.js: 38/272
+1. RocketSeat: Node.js: 56/272
 2. English in Brazil: 0/0
 3. Curso de Figma: 0/0
 4. Curso dev: 0/0
@@ -53,7 +53,7 @@ length:10
 ```text-progress-bar
 1. Lidere em Tempos Difíceis: 142/142
 2. Cinco Votos: 41/41
-3. Ultra Aprendizado: 196/308
+3. Ultra Aprendizado: 203/308
 4. Eloquent Javascript: 0/0
 5. Como fazer amigos e Influenciar Pessoas: 0/0
 6. Craking the Coding Interview: 0/0

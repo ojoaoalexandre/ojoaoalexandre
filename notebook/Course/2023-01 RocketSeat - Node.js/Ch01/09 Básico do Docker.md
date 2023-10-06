@@ -1,7 +1,5 @@
 Diferente da virtualização o docker reaproveita os recursos base do sistema operacional para criar ambientes isolados com recursos pré-definidos e controlados pelo desenvolvedor.
-
 ### Docker Hub
-
 É um repositório de imagens, que são como instruções que auxiliam na criação dos containers. Nele é possível encontrar containers prontos para diversas aplicações.
 
 ```
@@ -20,28 +18,24 @@ Para listar os container:
 
 ```
 docker ps -a
-
 ```
 
 Para executar um container da lista:
 
 ```
 docker start nome-do-container
-
 ```
 
 Para parar o container:
 
 ```
 docker stop nome-do-container
-
 ```
 
 ## Docker Compose
-
 O docker-compose é uma ferramenta que facilita a inicialização de um container por meio de instruções em um arquivo do tipo `yml`:
 
-```
+```yaml
 version: '3'
 
 services:
@@ -54,7 +48,7 @@ services:
 
 Para executar esse container:
 
-```
+```bash
 docker compose up -d
 ```
 

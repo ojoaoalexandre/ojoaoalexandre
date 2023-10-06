@@ -71,7 +71,7 @@ Nunca edite diretamente a `migration` se ela já foi enviada para o time, é jus
 
 Com o knex podemos realizar todas as operações com o banco de dados sem necessariamente utilizar o SQL, de forma mais flexível de modo que nosso banco de dados pode até ser alterado posteriormente, como quando mudamos de `SQLite` para `PostgreSQL`, sem a necessidade de alteração direto no código.
 
-````typescript
+```typescript
 import { randomUUI } from 'node:crypto'
 
 const transaction = await knex('transactions').insert({
@@ -79,4 +79,19 @@ const transaction = await knex('transactions').insert({
 }).returning('*')
 
 const transaction = await knex('transactions').where('amont', 1000).select('*')
+```
+
+Mais um migration:
+```typescript
+export async function up(knex: Knex): Promise<void> {
+	await knex.shema.alterTable('transactions', (table) => {
+		table.uuid('session_id').after('id').index()
+	})
+}
+
+export async function down(knex: Knex): Promise<void> {
+	await knex.schema.alterTable('transactions', (table) => {
+		table.dropColumn('session_id')
+	})
+}
 ```

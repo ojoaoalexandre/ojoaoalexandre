@@ -21,10 +21,12 @@ import { config } from "dotenv";
 config();
 
 const schema = z.object({
-  NODE_ENV: z
-    .enum(["development", "test", "production"])
-    .default("development"),
-  PORT: z.coerce.number().default(3333),
+	NODE_ENV: z
+	    .enum(["development", "test", "production"])
+		.default("development"),
+	DATABASE_CLIENT: z.enum(['sqlite', 'pg']),
+	DATABASE_URL: z.string(),
+	PORT: z.coerce.number().default(3333),
 });
 
 const _env = schema.safeParse(process.env);
@@ -41,7 +43,7 @@ export const env = _env.data;
 ## Boas Práticas
 1. Informe o nome da variável em caixa alta
 2. Adicione os arquivos `.env` em seu `.gitignore` para que as informações sensíveis não sejam adicionadas ao repositório
-3. Crie um arquivo de `.env.example` e informe neles apenas os nomes das variáveis, esse arquivo sim deve ser adicionado ao repositório
+3. Crie um arquivo de `.env.example` e informe neles apenas os nomes das variáveis, esse arquivo sim deve ser adicionado ao repositório 
 ## Agora é Nativo!
 A partir da versão 20.6.0 do Node.js temos suporte nativo das variáveis de ambiente, que podem ser observadas se executarmos o comando:
 ```shell
