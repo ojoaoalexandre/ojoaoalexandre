@@ -1,3 +1,5 @@
+#fastify #cookie
+
 É a forma para manter o contexto entre as requisições e o `Fastify` fornece uma maneira facilitada de lidar com esses dados por meio do seu plugin:
 
 ```bash

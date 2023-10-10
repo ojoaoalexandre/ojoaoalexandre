@@ -1,9 +1,15 @@
 Temos três principais tipos de testes:
 ### Testes Unitários
+#teste-unitario
+
 Testam exclusivamente uma unidade de código da sua aplicação de forma isolada, geralmente é o tipo de teste que mais temos.
 ### Teste de Integração
+#teste-de-integracao
+
 Testa a comunicação entre duas ou mais unidades.
 ### Teste E2E
+#teste-e2e
+
 Simulam um usuário operando em nossa aplicação.
 ## Pirâmide de Teste
 > É uma representação gráfica das quantidades de diferentes tipos de testes na aplicação.
@@ -112,6 +118,8 @@ test('', async () => {
 ```
 O `afterAll` permite fechar a aplicação após todos os testes, liberando o espaço da memória.
 ## Organizando os testes
+#test
+
 O primeiro nível de organização está no nome do arquivo de testes:
 ```
 transactions.spec.ts
@@ -169,6 +177,8 @@ it.only('should be able', () => {})
 ```
 
 ## Banco de Dados para Teste
+#banco-de-dados 
+
 O melhor dos mundos é que 
 ```
 .env.test.example

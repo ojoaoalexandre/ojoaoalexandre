@@ -1,6 +1,9 @@
+#banco-de-dados 
+
 Os bancos de dados podem ser categorizados com relacionais e não-relacionais.
 
 ## Knex
+#knex
 
 ```shell
 npm i knex

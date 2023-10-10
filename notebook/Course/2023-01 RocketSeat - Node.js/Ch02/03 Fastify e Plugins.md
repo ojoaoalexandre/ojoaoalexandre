@@ -1,3 +1,5 @@
+#fastify 
+
 Os Plugins são funcionalidades que podem ser adicionadas gradativamente e que facilitam o gerenciamento isolado de determinadas funções.
 No caso do `Fastify` podemos utilizar plugins para manter as rotas separadas do arquivo principal do servidor.
 ```typescript

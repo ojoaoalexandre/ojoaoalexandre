@@ -18,6 +18,8 @@ app.listen({
 ```
 
 ## Typescript
+#typescript
+
 Inicialmente era conhecido apenas como um superset para adicionar tipagem ao Javascript, mas vários serviços foram criados compilando diretamente Javascript permitindo assim definirmos como linguagem de programação.
 
 ```shell
