@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGoal",
       "LiRocket",
       "LiGraduationCap",
       "LiBook"
@@ -22,5 +23,6 @@
   },
   "Book": "LiBook",
   "Course": "LiGraduationCap",
-  "Workaday.md": "LiRocket"
+  "Workaday.md": "LiRocket",
+  "Career": "LiGoal"
 }

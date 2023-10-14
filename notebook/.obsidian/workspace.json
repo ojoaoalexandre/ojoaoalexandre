@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83bf5b6842ee0671",
+        "id": "269d4996c967b4e2",
         "type": "tabs",
         "children": [
           {
-            "id": "292831cf29d84a3f",
+            "id": "8e2fecada39fa4ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workaday.md",
+                "file": "Sermons/Conectados pela Graça.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workaday.md",
+                "file": "Sermons/Conectados pela Graça.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workaday.md",
+                "file": "Sermons/Conectados pela Graça.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workaday.md"
+                "file": "Sermons/Conectados pela Graça.md"
               }
             }
           },
@@ -168,44 +168,44 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "292831cf29d84a3f",
+  "active": "8e2fecada39fa4ad",
   "lastOpenFiles": [
+    "Sermons/Gere os Planos de Deus em você.md",
+    "Sermons/Conectados pela Graça.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch03/05 Test e Pattern.md",
+    "Workaday.md",
+    "Career/Mercado.md",
+    "Career/Canva.canvas",
+    "Career/Objetivos.md",
+    "Carreira Internacional/Vagas.md",
+    "Career/Canais e Personal Branding.md",
+    "Career/Plano de Ação.md",
+    "Career/Networking.md",
+    "Career/Valor e Diferenciais Profissionais.md",
+    "Career/Habilidades Técnicas Principais.md",
+    "Career/Gaps de Habilidades e Conhecimentos.md",
+    "Career/Experiências mais Importantes.md",
+    "Untitled",
+    "Career",
+    "Course/2023-01 RocketSeat - Node.js/Ch01/13 Controllers.md",
+    "Sermons/_index.md",
+    "Course/2023-01 RocketSeat - Node.js/_index.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch03/04 Hash.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch02/03 Fastify e Plugins.md",
+    "Book/2023-03 Ultra Aprendizado/09 Experimentação.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/03 Docker.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/02 Starting Project.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/01 Regras e Requisitos.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch02/03 Fastify e Plugins.md",
-    "Course/2023-01 RocketSeat - Node.js/_index.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02/01 Fundamentos.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02/06 Deploy.md",
     "Course/2023-01 RocketSeat - Node.js/Ch01/01 Fundamentos.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/02 Rotas Http.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/13 Controllers.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/12 Zod.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/04 Transição de dados.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/05 Requisitos e Regras.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/06 Variáveis de Ambiente.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/07 ESLint.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/08 Aliases de Importação.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/09 Drivers.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/10 Básico do Docker.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/11 Relacionamento com Prisma ORM.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch02/02 Banco de Dados.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch02/04 Fastify e Cookie.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch02/05 Testes Automatizados.md",
-    "Workaday.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/03 Streams.md",
-    "Template/Devocional.md",
-    "Book/2023-03 Ultra Aprendizado/08 Intuição.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02",
     "Sermons",
     "Template",
-    "Untitled.canvas",
     "Course/2023-01 RocketSeat - Node.js/Ch01",
     "Course/2023-01 RocketSeat - Node.js",
     "Course/2023-02 Curso.dev",
-    "Course",
-    "Book/2023-02 Cinco Votos",
-    "Book/2023-01 Lidere em Tempos Difíceis"
+    "Course"
   ]
 }

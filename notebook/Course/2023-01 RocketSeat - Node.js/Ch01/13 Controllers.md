@@ -1,1 +1,1 @@
-É a estrutura que lida com a entrada de uma requisição HTTP e com a resposta dessa requisição para o cliente.
+Servem para intermediar a requisição, repassar os dados para os casos de uso ou serviços e retornar dados quando necessário.

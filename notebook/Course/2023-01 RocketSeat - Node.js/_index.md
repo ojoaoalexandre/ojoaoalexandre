@@ -32,3 +32,5 @@ Finished at: ""
 [[01 Regras e Requisitos]]
 [[02 Starting Project]]
 [[03 Docker]]
+[[04 Hash]]
+[[05 Test e Pattern]]

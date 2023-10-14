@@ -34,7 +34,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ### 2023 Concluir 4 cursos
 
 ```text-progress-bar
-1. RocketSeat: Node.js: 68/272
+1. RocketSeat: Node.js: 82/272
 2. English in Brazil: 0/0
 3. Curso de Figma: 0/0
 4. Curso dev: 0/0
@@ -77,4 +77,10 @@ empty:📕
 length:10
 ```
 ### Restaurantes
+
 - [ ] Steak Beef do Jacquim
+
+## Viagens
+
+- [ ] Buenos Aires, Argentina
+- [ ] Santiago, Chile
