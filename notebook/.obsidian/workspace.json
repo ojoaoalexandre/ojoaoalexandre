@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "269d4996c967b4e2",
+        "id": "e2a016b27393aef3",
         "type": "tabs",
         "children": [
           {
-            "id": "8e2fecada39fa4ad",
+            "id": "eea16183da1d5f58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sermons/Conectados pela Graça.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sermons/Conectados pela Graça.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sermons/Conectados pela Graça.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sermons/Conectados pela Graça.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,10 +160,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "8e2fecada39fa4ad",
+  "active": "eea16183da1d5f58",
   "lastOpenFiles": [
-    "Sermons/Gere os Planos de Deus em você.md",
+    "Sermons/_index.md",
     "Sermons/Conectados pela Graça.md",
+    "Sermons/Gere os Planos de Deus em você.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/05 Test e Pattern.md",
     "Workaday.md",
     "Career/Mercado.md",
@@ -188,7 +181,6 @@
     "Untitled",
     "Career",
     "Course/2023-01 RocketSeat - Node.js/Ch01/13 Controllers.md",
-    "Sermons/_index.md",
     "Course/2023-01 RocketSeat - Node.js/_index.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/04 Hash.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02/03 Fastify e Plugins.md",
