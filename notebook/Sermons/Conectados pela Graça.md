@@ -1,7 +1,7 @@
 ## A Graça te torna eleito
 > Porque a graça salvadora de Deus se há manifestado a todos os homens,
 	Ensinando-nos que, renunciando à impiedade e às concupiscências mundanas, vivamos neste presente século sóbria, e justa, e piamente,
-	Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Senhor Jesus Cristo; 
+	Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Senhor Jesus Cristo;
 	Tito 2:11-13
 
 A Graça de Deus nos alcançou e, como bem sabemos, é o favor imerecido, ela nos torna eleitos por meio do ensinamento da renúncia. O mundo busca associar a palavra renúncia à falta de liberdade e por muitas vezes somos enganados ou nos vemos facilmente comprando a ideia quando dizemos: `Não faço isso porque sou crente`, e esse é o maior de nossos erros, porque estamos negando a liberdade atribuída a nós pelo próprio Deus.

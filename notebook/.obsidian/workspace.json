@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e2a016b27393aef3",
+        "id": "3a97998847a1073a",
         "type": "tabs",
         "children": [
           {
-            "id": "eea16183da1d5f58",
+            "id": "67ef64359e76d79f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sermons/Somos luz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sermons/Somos luz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sermons/Somos luz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sermons/Somos luz.md"
+              }
             }
           },
           {
@@ -160,10 +168,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "eea16183da1d5f58",
+  "active": "93d2848b6e0e00c8",
   "lastOpenFiles": [
-    "Sermons/_index.md",
+    "Sermons/Somos luz.md",
     "Sermons/Conectados pela Graça.md",
+    "Sermons/_index.md",
     "Sermons/Gere os Planos de Deus em você.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/05 Test e Pattern.md",
     "Workaday.md",
@@ -190,7 +199,6 @@
     "Course/2023-01 RocketSeat - Node.js/Ch03/01 Regras e Requisitos.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02/01 Fundamentos.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02/06 Deploy.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch01/01 Fundamentos.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03",
     "Course/2023-01 RocketSeat - Node.js/Ch02",
     "Sermons",
