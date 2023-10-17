@@ -1,2 +1,0 @@
-- [ ] Participar da primeira entrevista em inglês nos próximos 3 meses
-- [ ] Passar em uma vaga para desenvolvedor pleno nos próximos 6 meses

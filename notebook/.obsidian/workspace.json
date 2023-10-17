@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a97998847a1073a",
+        "id": "f74b2120a49e55a5",
         "type": "tabs",
         "children": [
           {
-            "id": "67ef64359e76d79f",
+            "id": "e1590b8d6dd6ac07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sermons/Somos luz.md",
+                "file": "Workaday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sermons/Somos luz.md",
+                "file": "Workaday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sermons/Somos luz.md",
+                "file": "Workaday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sermons/Somos luz.md"
+                "file": "Workaday.md"
               }
             }
           },
@@ -168,8 +168,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "67ef64359e76d79f",
+  "active": "e1590b8d6dd6ac07",
   "lastOpenFiles": [
+    "Career/Canva.canvas",
+    "Career/Canais e Personal Branding.md",
     "Workaday.md",
     "Sermons/Somos luz.md",
     "Sermons/Conectados pela Graça.md",
@@ -177,10 +179,8 @@
     "Sermons/Gere os Planos de Deus em você.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/05 Test e Pattern.md",
     "Career/Mercado.md",
-    "Career/Canva.canvas",
     "Career/Objetivos.md",
     "Carreira Internacional/Vagas.md",
-    "Career/Canais e Personal Branding.md",
     "Career/Plano de Ação.md",
     "Career/Networking.md",
     "Career/Valor e Diferenciais Profissionais.md",
@@ -198,7 +198,6 @@
     "Course/2023-01 RocketSeat - Node.js/Ch03/02 Starting Project.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/01 Regras e Requisitos.md",
     "Course/2023-01 RocketSeat - Node.js/Ch02/01 Fundamentos.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch02/06 Deploy.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03",
     "Course/2023-01 RocketSeat - Node.js/Ch02",
     "Sermons",
