@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14321114769c8d9a",
+        "id": "2aaad720a7e7f97e",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d71a98d1883d79",
+            "id": "2031839254c046ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
+                "file": "Workaday.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
+                "file": "Workaday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
+                "file": "Workaday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md"
+                "file": "Workaday.md"
               }
             }
           },
@@ -168,11 +168,15 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "d1d71a98d1883d79",
+  "active": "2031839254c046ae",
   "lastOpenFiles": [
+    "Devocional/2023-10-21.md",
+    "Devocional/2023-10-05.md",
+    "Devocional/2023-10-04.md",
+    "Devocional/2023-09-27.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/02 Starting Project.md",
     "Workaday.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
     "Course/2023-01 RocketSeat - Node.js/Ch04",
     "Course/2023-01 RocketSeat - Node.js/Ch03/06 Tipagem Prisma.md",
     "Career/Canva.canvas",
@@ -195,10 +199,6 @@
     "Course/2023-01 RocketSeat - Node.js/Ch01/13 Controllers.md",
     "Course/2023-01 RocketSeat - Node.js/_index.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/04 Hash.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch02/03 Fastify e Plugins.md",
-    "Book/2023-03 Ultra Aprendizado/09 Experimentação.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch03/03 Docker.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch03/01 Regras e Requisitos.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03",
     "Course/2023-01 RocketSeat - Node.js/Ch02",
     "Sermons",
