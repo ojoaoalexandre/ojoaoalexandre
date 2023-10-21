@@ -53,7 +53,7 @@ length:10
 ```text-progress-bar
 1. Lidere em Tempos Difíceis: 142/142
 2. Cinco Votos: 41/41
-3. Ultra Aprendizado: 265/308
+3. Ultra Aprendizado: 308/308
 4. Eloquent Javascript: 0/0
 5. Como fazer amigos e Influenciar Pessoas: 0/0
 6. Craking the Coding Interview: 0/0
