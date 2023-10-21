@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f74b2120a49e55a5",
+        "id": "14321114769c8d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "e1590b8d6dd6ac07",
+            "id": "d1d71a98d1883d79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workaday.md",
+                "file": "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workaday.md",
+                "file": "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workaday.md",
+                "file": "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workaday.md"
+                "file": "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md"
               }
             }
           },
@@ -168,10 +168,13 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "e1590b8d6dd6ac07",
+  "active": "d1d71a98d1883d79",
   "lastOpenFiles": [
-    "Course/2023-01 RocketSeat - Node.js/Ch03/06 Tipagem Prisma.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch03/02 Starting Project.md",
     "Workaday.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch04/01 Domain Driven Design.md",
+    "Course/2023-01 RocketSeat - Node.js/Ch04",
+    "Course/2023-01 RocketSeat - Node.js/Ch03/06 Tipagem Prisma.md",
     "Career/Canva.canvas",
     "Career/Canais e Personal Branding.md",
     "Sermons/Somos luz.md",
@@ -188,7 +191,6 @@
     "Career/Habilidades Técnicas Principais.md",
     "Career/Gaps de Habilidades e Conhecimentos.md",
     "Career/Experiências mais Importantes.md",
-    "Untitled",
     "Career",
     "Course/2023-01 RocketSeat - Node.js/Ch01/13 Controllers.md",
     "Course/2023-01 RocketSeat - Node.js/_index.md",
@@ -196,9 +198,7 @@
     "Course/2023-01 RocketSeat - Node.js/Ch02/03 Fastify e Plugins.md",
     "Book/2023-03 Ultra Aprendizado/09 Experimentação.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/03 Docker.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch03/02 Starting Project.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03/01 Regras e Requisitos.md",
-    "Course/2023-01 RocketSeat - Node.js/Ch02/01 Fundamentos.md",
     "Course/2023-01 RocketSeat - Node.js/Ch03",
     "Course/2023-01 RocketSeat - Node.js/Ch02",
     "Sermons",
