@@ -1,1 +1,0 @@
-Servem para intermediar a requisição, repassar os dados para os casos de uso ou serviços e retornar dados quando necessário.
