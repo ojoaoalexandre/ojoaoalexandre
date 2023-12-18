@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0220a8e1f0767c26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ministry/2023-12-18 Culto Sede Santo André.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "right": {
     "id": "8461071b4d935033",
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ministry/2023-12-18 Culto Sede Santo André.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ministry/2023-12-18 Culto Sede Santo André.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ministry/2023-12-18 Culto Sede Santo André.md"
+              }
             }
           }
         ]
@@ -138,13 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42cb25094a1609cc",
+  "active": "0220a8e1f0767c26",
   "lastOpenFiles": [
-    "ministry/2023-12-16 Culto Sede São Paulo.md",
+    "ministry/2023-12-03 Devocional.md",
     "ministry/2023-12-05 Devocional.md",
     "ministry/2023-12-09 Reunião de Pastores.md",
-    "ministry/2023-12-03 Devocional.md",
     "ministry/2023-12-11 Culto Sede Santo André.md",
+    "ministry/2023-12-16 Culto Sede São Paulo.md",
+    "ministry/2023-12-18 Culto Sede Santo André.md",
     "study/_index.md",
     "study/books/2023-B01.md",
     "articles"

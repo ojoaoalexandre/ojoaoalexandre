@@ -1,7 +1,7 @@
 ---
 date: 2023-12-11
-title: Construindo 2024
 preletor: João Vitor Alexandre
+title: Construindo 2024
 ---
 Primeiro precisamos saber planejar, depois precisamos aprender a pedir e por último precisamos aprender a renunciar.
 ## Planejar
