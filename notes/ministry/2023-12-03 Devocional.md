@@ -1,0 +1,15 @@
+---
+date: 2023-12-01
+---
+#lucas
+Lucas 6:29 [29] Ao que te ferir numa face, oferece-lhe também a outra; e ao que te houver tirado a capa, nem a túnica recuses;
+
+‭‭Lucas‬ ‭6:42‬ ‭NTLH‬‬[42] Como é que você pode dizer ao seu irmão: “Me deixe tirar esse cisco do seu olho”, se você não repara na trave que está no seu próprio olho? Hipócrita! Tire primeiro a trave que está no seu olho e então poderá ver bem para tirar o cisco que está no olho do seu irmão.
+
+‭‭Lucas‬ ‭6:44‬ ‭NTLH‬‬[44] Pois cada árvore é conhecida pelas frutas que ela produz. Não é possível colher figos de espinheiros, nem colher uvas de pés de urtiga.
+
+‭‭Lucas‬ ‭6:45‬ ‭NTLH‬‬[45] A pessoa boa tira o bem do depósito de coisas boas que tem no seu coração. E a pessoa má tira o mal do seu depósito de coisas más. Pois a boca fala do que o coração está cheio.
+
+‭‭Lucas‬ ‭6:49‬ ‭NTLH‬‬[49] Mas quem ouve a minha mensagem e não é obediente a ela é como o homem que construiu uma casa na terra, sem alicerce. Quando a água bateu contra aquela casa, ela caiu logo e ficou totalmente destruída.
+
+‭‭Lucas‬ ‭7:8‬ ‭NTLH‬‬[8] Eu também estou debaixo da autoridade de oficiais superiores e tenho soldados que obedecem às minhas ordens. Digo para um: “Vá lá”, e ele vai. Digo para outro: “Venha cá”, e ele vem. E digo também para o meu empregado: “Faça isto”, e ele faz.
