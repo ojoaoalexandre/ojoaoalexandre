@@ -1,5 +1,4 @@
 ---
-pages: 135
 progress: 100
 ---
 # 14 hábitos de desenvolvedores altamente Produtivos
