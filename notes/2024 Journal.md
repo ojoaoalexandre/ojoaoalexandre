@@ -81,6 +81,12 @@ length:10
 ## Courses 2024
 
 ```text-progress-bar
+Curso.dev: 0/85
+transition: 📙
+fill:📘
+empty: 📕
+length:10
+
 Rocketseat: Node.js: 782/1462
 transition: 📙
 fill: 📘
@@ -99,7 +105,7 @@ fill:📘
 empty: 📕
 length:10
 
-Curso.dev: 0/352
+Udemy: Testing Next.js Apps with Jest: 0/119
 transition: 📙
 fill:📘
 empty: 📕

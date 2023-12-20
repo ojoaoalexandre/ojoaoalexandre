@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e74380f091062d6",
+        "id": "a30a810e39e945b8",
         "type": "tabs",
         "children": [
           {
-            "id": "99308348c01b54a6",
+            "id": "05765c9d395e0049",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37263f2adafa5aad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "study/courses/2024-C02 Curso.dev/001 Git Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lucas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024 Journal.md",
+                "file": "study/courses/2024-C02 Curso.dev/001 Git Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024 Journal.md",
+                "file": "study/courses/2024-C02 Curso.dev/001 Git Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024 Journal.md"
+                "file": "study/courses/2024-C02 Curso.dev/001 Git Basics.md"
               }
             }
           }
@@ -146,18 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99308348c01b54a6",
+  "active": "37263f2adafa5aad",
   "lastOpenFiles": [
-    "study/books/2023-B01 14 hábitos de desenvolvedores altamente Produtivos.md",
-    "study/books/2024-B01.md",
     "2024 Journal.md",
-    "study/_index.md",
+    "study/courses/2024-C02 Curso.dev/001 Git Basics.md",
+    "study/books/2023-B01.md",
+    "study/books/2024-B01.md",
+    "ministry/2023-10-14 Culto Sede Santo André.md",
+    "ministry/2023-10-09 Culto Sede Santo André.md",
+    "ministry/2023-12-11 Culto Sede Santo André.md",
+    "ministry/2023-12-09 Reunião de Pastores.md",
+    "ministry/2023-10-05.md",
+    "ministry/2023-09-27.md",
     "ministry/2023-12-03.md",
+    "study/_index.md",
     "ministry/2023-12-05.md",
     "ministry/2023-12-18 Culto Sede Santo André.md",
     "ministry/2023-12-16 Culto Sede São Paulo.md",
-    "ministry/2023-12-11 Culto Sede Santo André.md",
-    "ministry/2023-12-09 Reunião de Pastores.md",
     "study/courses/2024-C02 Curso.dev",
     "study/courses/2024-C03 RocketSeat IA",
     "study/courses/RocketSeat React.js",
