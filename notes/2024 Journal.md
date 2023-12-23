@@ -77,41 +77,40 @@ fill:📘
 empty: 📕
 length:10
 ```
-
 ## Courses 2024
 
 ```text-progress-bar
-Curso.dev: 0/85
-transition: 📙
-fill:📘
-empty: 📕
-length:10
-
-Rocketseat: Node.js: 782/1462
-transition: 📙
-fill: 📘
-empty: 📕
-length:10
-
-Rocketseat: React.js: 7/156
-transition: 📙
-fill: 📘
-empty: 📕
-length:10
-
-Rocketseat: IA: 22/354
-transition: 📙
-fill:📘
-empty: 📕
-length:10
-
-Udemy: Testing Next.js Apps with Jest: 0/119
+Curso.dev: 45/85
 transition: 📙
 fill:📘
 empty: 📕
 length:10
 
 FreeCodeCamp: Responsive Web Design: 0/352
+transition: 📙
+fill:📘
+empty: 📕
+length:10
+
+Rocketseat: Node.js: 0/1462
+transition: 📙
+fill: 📘
+empty: 📕
+length:10
+
+Rocketseat: React.js: 0/156
+transition: 📙
+fill: 📘
+empty: 📕
+length:10
+
+Rocketseat: IA: 0/354
+transition: 📙
+fill:📘
+empty: 📕
+length:10
+
+Udemy: Testing Next.js Apps with Jest: 0/119
 transition: 📙
 fill:📘
 empty: 📕

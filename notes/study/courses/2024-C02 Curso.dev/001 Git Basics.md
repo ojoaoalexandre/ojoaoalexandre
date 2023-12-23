@@ -24,3 +24,8 @@ git commit --amend
 ```
 git diff
 ```
+
+```
+git push
+git pull
+```
