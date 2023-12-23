@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/2023-12-20.md",
+                "file": "study/courses/2024-C02 Curso.dev/002 Linting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/2023-12-20.md",
+                "file": "study/courses/2024-C02 Curso.dev/002 Linting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "articles/2023-12-20.md",
+                "file": "study/courses/2024-C02 Curso.dev/002 Linting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/2023-12-20.md"
+                "file": "study/courses/2024-C02 Curso.dev/002 Linting.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "81fcc417b693a804",
   "lastOpenFiles": [
-    "articles/2023-12-20.md",
     "2024 Journal.md",
-    "study/books/2023-B01.md",
     "study/courses/2024-C02 Curso.dev/002 Linting.md",
     "study/courses/2024-C02 Curso.dev/001 Git Basics.md",
+    "articles/2023-12-20.md",
+    "study/books/2023-B01.md",
     "ministry/2023-12-05.md",
     "study/books/2024-B01.md",
     "ministry/2023-10-14 Culto Sede Santo André.md",
