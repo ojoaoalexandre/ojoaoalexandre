@@ -1,4 +1,3 @@
-
 > ‭‭Mateus‬ ‭2:11‬ ‭ARC‬‬
 > [11] E, entrando na casa, acharam o menino com Maria, sua mãe, e, prostrando-se, o adoraram; e, abrindo os seus tesouros, lhe ofertaram dádivas: ouro, incenso e mirra. 
 
@@ -14,3 +13,7 @@ No aniversário de Jesus abra o seu tesouro e lhe ofereça a posição de ser gl
 > [6] Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças.
 
 Talvez você já tenha orado e suplicado, mas te faltou a ação de agradecimento, por isso nesse aniversário de Jesus nos foi dada uma oportunidade especial!
+
+Ouro -> Profissional e Financeiro
+Incenso -> Espiritual e Ministerial
+Mirra -> Emocional e Sentimental
