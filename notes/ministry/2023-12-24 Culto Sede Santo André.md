@@ -14,6 +14,6 @@ No aniversário de Jesus abra o seu tesouro e lhe ofereça a posição de ser gl
 
 Talvez você já tenha orado e suplicado, mas te faltou a ação de agradecimento, por isso nesse aniversário de Jesus nos foi dada uma oportunidade especial!
 
-Ouro -> Profissional e Financeiro
-Incenso -> Espiritual e Ministerial
-Mirra -> Emocional e Sentimental
+1. Ouro -> Profissional e Financeiro
+2. Incenso -> Espiritual e Ministerial
+3. Mirra -> Emocional e Sentimental
