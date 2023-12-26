@@ -1,6 +1,6 @@
 ---
 date: 2023-10-14
-preletor: João Vitor Alexandre
+preletor: "João Vitor Alexandre"
 title: Conectados pela Graça
 ---
 ## A Graça te torna eleito

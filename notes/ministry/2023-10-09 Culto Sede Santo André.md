@@ -1,8 +1,9 @@
 ---
 date: 2023-10-09
-preletor: João Vitor Alexandre
+preletor: "João Vitor Alexandre"
 title: Gere os Planos de Deus em Você
 ---
+
 #gênesis 
 > E disse Deus: Haja luz; e houve luz. Gênesis 1:3
 
