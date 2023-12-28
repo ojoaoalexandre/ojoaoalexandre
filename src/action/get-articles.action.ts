@@ -5,7 +5,9 @@ import { GithubArticlesGateway } from "@/gateways/github/github-articles.gateway
 export const getArticlesAction = async () => {
   try {
     const gateway = new GithubArticlesGateway()
-    const data = await gateway.find()
+    const data = await gateway.find({
+      state: 'closed'
+    })
 
     return {
       data,

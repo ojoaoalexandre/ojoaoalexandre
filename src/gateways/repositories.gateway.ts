@@ -1,5 +1,5 @@
-import { RepositoryProps } from "@/@types/Repository"
+import { RepositoriesProps } from "@/libs/github"
 
 export type RepositoriesGateway = {
-  find(): Promise<RepositoryProps[]>
+  find(): Promise<RepositoriesProps>
 }
