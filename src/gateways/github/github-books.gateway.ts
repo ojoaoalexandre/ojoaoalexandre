@@ -1,7 +1,7 @@
-import { ArticlesProps, github } from "@/libs/github";
-import { ArticlesGateway } from "../articles.gateway";
+import { BooksProps, github } from "@/libs/github";
+import { BooksGateway } from "../books.gateway";
 
-export class GithubArticlesGateway implements ArticlesGateway {
+export class GithubBooksGateway implements BooksGateway {
   getDescription(text: string) {
     const regex = /::description:\s*(.*?)(?:\n|$)/s
     const expression = text.match(regex)
@@ -26,22 +26,12 @@ export class GithubArticlesGateway implements ArticlesGateway {
     return null
   }
 
-  async find({ state }: { state: 'open' | 'closed' | 'all'}): Promise<ArticlesProps> {
+  async find({ state }: { state: 'open' | 'closed' | 'all'}): Promise<BooksProps> {
     const response = await github.rest.issues.listForRepo({
       owner: 'alexandrebekor',
       repo: 'alexandrebekor',
-      milestone: '18',
+      milestone: '19',
       state
-    })
-
-    return response.data
-  }
-
-  async findyId(id: number) {
-    const response = await github.rest.issues.get({
-      owner: 'alexandrebekor',
-      repo: 'alexandrebekor',
-      issue_number: id
     })
 
     return response.data

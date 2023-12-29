@@ -1,13 +1,16 @@
-import { getArticlesAction } from "@/action/get-articles.action"
 import { SectionArticles } from "@/components/Section/Articles"
+import { SectionBooks } from "@/components/Section/Books"
 import { SectionPortfolio } from "@/components/Section/Portfolio"
 
-export default async function PageHome() {
+const PageHome = async () => {
   
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <SectionArticles />
+    <main className="min-h-screen container mx-auto">
       <SectionPortfolio />
+      <SectionArticles />
+      <SectionBooks />
     </main>
   )
 }
+
+export default PageHome

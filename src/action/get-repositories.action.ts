@@ -2,10 +2,10 @@
 
 import { GithubRepositoriesGateway } from "@/gateways/github/github-repositories.gateway"
 
-export const getRepositoriesAction = async () => {
+export const getRepositoriesAction = async ({ size }: { size: number }) => {
   try {
     const gateway = new GithubRepositoriesGateway()
-    const data = await gateway.find()
+    const data = await gateway.findWithCover()
 
     return {
       data,

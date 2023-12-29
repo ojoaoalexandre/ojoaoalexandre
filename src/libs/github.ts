@@ -10,6 +10,10 @@ export type ArticlesProps = GetResponseDataTypeFromEndpointMethod<
   typeof github.rest.issues.listForRepo
 >
 
+export type BooksProps = GetResponseDataTypeFromEndpointMethod<
+  typeof github.rest.issues.listForRepo
+>
+
 export type RepositoriesProps = GetResponseDataTypeFromEndpointMethod<
   typeof github.rest.repos.listForAuthenticatedUser
 >

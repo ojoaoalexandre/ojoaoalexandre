@@ -1,5 +1,5 @@
 import { getArticlesAction } from "@/action/get-articles.action"
-import { slug } from "@/libs/slug"
+import { slug } from "@/app/utils/format"
 import { MessageCircleMore } from "lucide-react"
 import Link from "next/link"
 
@@ -9,7 +9,7 @@ const SectionArticles = async () => {
   return (
     <section>
       {articles.data?.map(article => (
-        <Link key={article.id} href={`/article/${slug(article.title)}`} className="flex justify-between items-start">
+        <Link key={article.id} href={`/articles/${slug(article.title)}-${article.number}`} className="flex justify-between items-start">
           <div>
             <h3 className="font-semibold">{article.title}</h3>
             <p className="text-xs text-gray-500">{article.closed_at}</p>
