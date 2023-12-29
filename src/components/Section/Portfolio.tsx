@@ -18,19 +18,19 @@ const SectionPortfolio = async () => {
         </div>
         <Link href="/projects" className="px-4 py-2 bg-gray-300 rounded-md">Ver Mais</Link>
       </header>
-      <div className="grid grid-cols-3 gap-6">
+      <div className="grid grid-cols-3 gap-8">
         {repositories?.data?.map(repository => (
           <div key={repository.id} className="flex flex-col">
             {repository.cover ? (
-              <Image alt={repository.name} src={repository.cover} width={920} height={920} className="object-cover h-full max-h-80 rounded-lg" />
+              <Image alt={repository.name} src={repository.cover} width={920} height={920} className="object-cover object-top h-full max-h-60 rounded-lg" />
             ) : null}
 
-            <footer className="flex justify-between pt-1">
+            <footer className="flex justify-between pt-2">
               <div className="flex flex-col">
-                <h3 className="font-semibold">{title(repository.name)}</h3>
+                <h3 className="font-semibold leading-none">{title(repository.name)}</h3>
                 <div>
                   {repository.topics?.map(topic => (
-                    <span key={topic} className="text-xs font-semibold bg-gray-950 text-white px-2 py-1 rounded-full">{title(topic, false)}</span>
+                    <span key={topic} className="text-xs bg-gray-950 text-white px-2 py-0.5 rounded-md">{title(topic, false)}</span>
                   ))}
                 </div>
               </div>

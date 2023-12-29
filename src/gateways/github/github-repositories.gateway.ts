@@ -1,7 +1,6 @@
 import { RepositoriesProps, github } from "@/libs/github";
 import { RepositoriesGateway } from "../repositories.gateway";
 import { decodeBase64UTF8 } from "@/app/utils/format";
-import { env } from "@/libs/env";
 
 export class GithubRepositoriesGateway implements RepositoriesGateway {
   async getCover(text: string) {
@@ -18,7 +17,8 @@ export class GithubRepositoriesGateway implements RepositoriesGateway {
 
   async find(data?: { size: number }): Promise<RepositoriesProps> {
     const response = await github.rest.repos.listForAuthenticatedUser({
-      per_page: 100
+      per_page: 100,
+      sort: 'created'
     })
 
     const repositories = response.data.filter(repository => {
