@@ -38,6 +38,7 @@ Estabelecer prazos de entrega é uma das missões mais difíceis para o desenvol
 
 Não é possível aprender a estimar o tempo das atividades se você não medí-las, então aprenda essas duas habilidades: Quebrar tarefas maiores em tarefas que levem no máximo 24 horas para serem executadas e Anote o tempo real que levou para executá-las.
 
+> [!NOTE]
 > Já vi muita gente irritada por entrega atrasada de software, mas nunca vi alguém irritado por entrega adiantada, por isso ao estimar não tenha medo de, para casos em que você não tem experiência do recurso, multiplicar por 2 o prazo de entrega.
 
 ## Especialista vs Generalista
@@ -46,6 +47,7 @@ Não é possível aprender a estimar o tempo das atividades se você não medí-
 A melhor das visões é entender que para alguns assuntos é ideal que tenhamos um conhecimento mais aprofundado, principalmente quando se trata de um assunto base que pode ser reaproveitado por diversas áreas da sua carreira, normalmente desenvolvedores especialistas escolhem por uma carreira em grandes empresas enquanto generalistas possuem uma visão mais empreendedora a respeito das próprias habilidades.
 
 ## Controle suas variáveis
+> [!NOTE]
 > “A única coisa sobre a qual você às vezes tem controle é a sua perspectiva. Você não tem controle sobre sua situação. Mas você tem a escolha sobre como vê-la.” ― Chris Pine
 
 ## Pare de Esperar

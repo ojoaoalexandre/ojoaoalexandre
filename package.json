@@ -4,7 +4,7 @@
   "description": "Sou **desenvolvedor full-stack**, imerso na criação de soluções em software desde 2012 e apaixonado pelo impacto positivo da programação nos negócios, e na sociedade!",
   "main": "index.js",
   "scripts": {
-    "plop": "plop --plopfile apps/generators/plopfile.js"
+    "plop": "plop --plopfile notes/generators/plopfile.js"
   },
   "keywords": [],
   "author": "",
