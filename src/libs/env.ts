@@ -6,8 +6,8 @@ const schema = z.object({
 
 const _env = schema.safeParse(process.env)
 
-if(!_env.success) {
-  throw new Error('Environment Variables not found')
+if (!_env.success) {
+  console.error('Invalid environment variables', _env.error)
 }
 
 export const env = _env.data
